@@ -1,0 +1,4 @@
+GetSharingAppAndroid
+====================
+
+get sharing application
